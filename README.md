@@ -1,2 +1,1 @@
-# demo-repo
-This is a demo for a Senior Design assignment
+My name is Eric Duncan. I am a senior at Mississippi State University majoring in computer engineering. My hobbies include reading, learning languages, and playing video games. My favorite animal is the red panda, and one of my favorite TV shows is Invincible. 
